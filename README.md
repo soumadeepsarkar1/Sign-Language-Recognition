@@ -4,3 +4,4 @@ American Sign Language Recognition system has been developed that can recognize 
 MediaPipe Holistic pipeline has been for landmark detection.\
 Developed two models, one using GRU and the other using LSTM. Both the models achieved 99% accuracy.\
 Custom dataset built by recording videos using webcam.
+Demonstration video: https://drive.google.com/file/d/106u7CSHUFcKvUhxmBjurjmXSLpg7sb_E/view
